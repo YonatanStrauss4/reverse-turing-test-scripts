@@ -1,7 +1,6 @@
 
 import matplotlib.pyplot as plt
 
-# Manually specified percentages
 labels = ['Human Partner', 'LLM Partner']
 guessed_human = [90, 90]  # 90% guessed Human for both
 guessed_ai = [10, 10]     # 10% guessed AI for both
